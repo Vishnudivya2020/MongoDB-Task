@@ -1,0 +1,70 @@
+[
+    {
+        "company_name": "WebWorks Solutions",
+        "drive_date": "2020-10-01",
+        "drive_Id":1,
+        "job_role": "Full Stack Developer",
+         "location":"San Diego",
+        "contact_email": "hr@webworkssolutions.com",
+        "requirements": {
+            "degree": "BSc in Computer Science",
+            "experience": "3 years",
+            "skills": ["JavaScript", "React", "Node.js", "SQL"]
+        }
+    },
+    {
+        "company_name": "TechBridge Inc.",
+        "drive_date": "2020-10-05",
+        "drive_Id":2,
+        "job_role": "Full Stack Engineer",
+         "location":"San Antonio",
+        "contact_email": "careers@techbridgeinc.com",
+        "requirements": {
+            "degree": "BSc in Software Engineering",
+            "experience": "2 years",
+            "skills": ["HTML", "CSS", "Angular", "Spring Boot"]
+        }
+    },
+    {
+        "company_name": "Innovatech",
+        "drive_date": "2020-08-10",
+        "drive_Id":3,
+        "job_role": "Full Stack Developer",
+          "location":"Philadelphia",
+        "contact_email": "jobs@innovatech.com",
+        "requirements": {
+            "degree": "BSc in Computer Science",
+            "experience": "4 years",
+            "skills": ["Python", "Django", "React", "PostgreSQL"]
+        }
+    },
+    {
+        "company_name": "NextGen Technologies",
+        "drive_date": "2020-10-18",
+        "drive_Id":4,
+        "job_role": "Full Stack Software Engineer",
+         "location":"Phoenix",
+        "contact_email": "recruitment@nextgentech.com",
+        "requirements": {
+            "degree": "BSc in Information Technology",
+            "experience": "3 years",
+            "skills": ["Ruby on Rails", "JavaScript", "MySQL", "AWS"]
+        }
+    },
+    {
+        "company_name": "CodeCrafters",
+        "drive_date": "2020-10-15",
+        "drive_Id":5,
+        "job_role": "Full Stack Developer",
+          "location":"Dallas",
+        "contact_email": "hr@codecrafters.com",
+        "requirements": {
+            "degree": "BSc in Computer Science",
+            "experience": "2 years",
+            "skills": ["Java", "Spring", "React", "MongoDB"]
+        }
+    }
+
+ 
+   
+]

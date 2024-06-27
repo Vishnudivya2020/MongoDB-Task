@@ -1,0 +1,91 @@
+{
+    "users": [
+      {
+        "Rollnumber":"1",
+        "name": "John Doe",
+        "email": "john@example.com",
+        "date_of_birth": "1990-05-15",
+        "course": "Computer Science",
+        "drive_Id":1,
+        "attendance":{
+          "date":"2020-10-20",
+          "status":"present"
+        },
+        "task":[{
+          "task_id":1,
+          "submission_date":"2020-10-20"
+        }]
+      },
+      {
+        "Rollnumber":"2",
+        "name": "Jane Smith",
+        "email": "jane@example.com",
+        "date_of_birth": "1992-08-22",
+        "course": "Engineering",
+         "drive_Id":2,
+         "attendance":{
+          "date":"2020-10-26",
+          "status":"present"
+        },
+        "task":[{
+          "task_id":1,
+          "submission_date":"2020-10-20"
+        }]
+      },
+      {
+        "Rollnumber":"3",
+        "name": "Alice Johnson",
+        "email": "alice@example.com",
+        "date_of_birth": "1988-03-10",
+        "course": "Medicine",
+         "drive_Id":3,
+         "attendance":{
+          "date":"2020-10-20",
+          "status":"present"
+        },
+        "task":[{
+          "task_id":1,
+          "submission_date":"2020-10-20"
+        }]
+      },
+      {
+        "Rollnumber":"4",
+        "name": "Bob Brown",
+        "email": "bob@example.com",
+        "date_of_birth": "1995-11-30",
+        "course": "Business Administration",
+         "drive_Id":4,
+         "attendance":{
+          "date":"2020-10-18",
+          "status":"absent"
+        },
+        "task":[{
+          "task_id":4,
+          "submission_date":null
+        }]
+      },
+      {
+        
+          "Rollnumber":"5",
+          "name":"Emily Davis",
+          "email":"emily@example.com",
+          "date_of_birth":"1998-01-25",
+           "course":"Psychology",
+           "drive_Id":5,
+           "attendance":{
+            "date":"2020-10-20",
+            "status":"present"
+          },
+          "task":[{
+            "task_id":5,
+            "submission_date":"2020-10-20"
+          }]
+
+      }
+    
+    
+    ]
+  }
+  
+ 
+ 

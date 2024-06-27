@@ -1,0 +1,42 @@
+{
+    "users": [
+      {
+        "Rollnumber":1,
+        "name": "John Doe",
+        "codekata": {
+          "solvedpro":95
+          
+        }
+      },
+      {
+        "Rollnumber":2,
+        "name": "Jane Smith",
+         "codekata": {
+         "solvedpro":88
+       
+        }
+      },
+      {
+        "Rollnumber":3,
+        "name": "Alice Johnson",
+         "codekata": {
+          "solvedpro":102
+        }
+      },
+      {
+        "Rollnumber":4,
+        "name": "Bob Brown",
+        "codekata": {
+          "solvedpro":125
+        }
+      },
+      {
+        "Rollnumber":5,
+        "name": "Emily Davis",
+         "codekata": {
+          "solvedpro":255
+        }
+      }
+    ]
+  }
+  

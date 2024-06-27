@@ -1,0 +1,44 @@
+[
+    {
+        "mentor_name": "Alice Johnson",
+        "expertise": "Full Stack Development",
+        "years_of_experience": 10,
+        "contact_email": "alice.johnson@example.com",
+        "availability": "Weekdays 6-9 PM",
+        "mentee's_count":14
+    },
+    {
+        "mentor_name": "Bob Smith",
+        "expertise": "Data Science",
+        "years_of_experience": 8,
+        "contact_email": "bob.smith@example.com",
+        "availability": "Weekends 10 AM - 4 PM",
+        "mentee's_count":12
+    },
+    {
+        "mentor_name": "Carol Williams",
+        "expertise": "Cybersecurity",
+        "years_of_experience": 12,
+        "contact_email": "carol.williams@example.com",
+        "availability": "Weekdays 5-8 PM",
+        "mentee's_count":18
+    },
+    {
+        "mentor_name": "David Brown",
+        "expertise": "Machine Learning",
+        "years_of_experience": 7,
+        "contact_email": "david.brown@example.com",
+        "availability": "Weekends 9 AM - 3 PM",
+        "mentee's_count":20
+    },
+    {
+        "mentor_name": "Emma Davis",
+        "expertise": "Cloud Computing",
+        "years_of_experience": 9,
+        "contact_email": "emma.davis@example.com",
+        "availability": "Weekdays 7-10 PM",
+        "mentee's_count":10
+    }
+   
+ 
+]
